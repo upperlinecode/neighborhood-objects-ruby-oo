@@ -3,7 +3,7 @@
 
 
 
-# Now create instances of three different students using the .new method.
+# Now create instances of three different students (student1, student2, and student3) using the .new method.
 
 
 
@@ -46,4 +46,4 @@
 
 
 
-# Iterate over the houses array and print out a description for each on. Do the same for your schools array.  
+# Iterate over the houses array and print out a description for each on. Do the same for your schools array.
